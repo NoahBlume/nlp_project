@@ -1,0 +1,4772 @@
+[
+    {
+        "source": "msnbc",
+        "headline": "Tuesday's Mini-Report, 1.21.20",
+        "date": "2020-01-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Wednesday's Mini-Report, 1.22.20",
+        "date": "2020-01-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Thursday's Mini-Report, 1.23.20",
+        "date": "2020-01-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Friday's Mini-Report, 1.24.20",
+        "date": "2020-01-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Monday's Mini-Report, 1.27.20",
+        "date": "2020-01-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Wednesday's Mini-Report, 1.29.20",
+        "date": "2020-01-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump cabinet secretary looks for silver lining in coronavirus outbreak",
+        "date": "2020-01-30"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Thursday's Mini-Report, 1.30.20",
+        "date": "2020-01-30"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Friday's Mini-Report, 1.31.20",
+        "date": "2020-01-31"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Inside the coronavirus public health emergency",
+        "date": "2020-02-01"
+    },
+    {
+        "source": "msnbc",
+        "headline": "First case of coronavirus confirmed in Massachusetts; 8th in the U.S.",
+        "date": "2020-02-01"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus: 195 US evacuees quarantined in California",
+        "date": "2020-02-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Wednesday's Mini-Report, 2.5.20",
+        "date": "2020-02-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Wednesday's Mini-Report, 2.5.20",
+        "date": "2020-02-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "We are still learning scope of corona virus, says doctor",
+        "date": "2020-02-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "13 Americans infected with coronavirus on cruise ship in Japan",
+        "date": "2020-02-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chinese authorities raid homes of suspected Coronavirus victims",
+        "date": "2020-02-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Monday's Mini-Report, 2.10.20",
+        "date": "2020-02-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health expert: Coronavirus spreading because humans are healthier",
+        "date": "2020-02-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "CDC confirms 15th coronavirus case in U.S.",
+        "date": "2020-02-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Americans evacuated from China discuss coronavirus quarantine",
+        "date": "2020-02-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New York City prepares for the coronavirus",
+        "date": "2020-02-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "14 Americans test positive for coronavirus",
+        "date": "2020-02-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health expert: Coronavirus 'chaos' is 'very worrisome'",
+        "date": "2020-02-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cotton repeats coronavirus conspiracy theory, despite evidence",
+        "date": "2020-02-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How Trump handled the last global health crisis",
+        "date": "2020-02-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Brian Schatz on whether we can trust Trump to handle coronavirus",
+        "date": "2020-02-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Markets sink as coronavirus spreads globally",
+        "date": "2020-02-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "European officials scramble amid 45% rise in Italy\u2019s coronavirus cases",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Officials warn of coronavirus spread in U.S.",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus fears tank markets but Trump says everything's under control",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump aide Cuccinelli asks Twitter for help finding coronavirus info",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Iran struggles to deal with growing coronavirus outbreak",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump admin. preparations for coronavirus remain unclear",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'It's not if, it's when': CDC warns spread of coronavirus in U.S. is inevitable",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Officials warn of coronavirus spread in the United States",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "As coronavirus outbreak continues, Trump fails to inspire confidence",
+        "date": "2020-02-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump to update on coronavirus this evening",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Suburban NYC county monitoring more than 80 people for possible coronavirus exposure",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. unready to deal with potential coronavirus spread",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Officials say Americans should prepare for Coronavirus spread",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump blames the media and Democrats for Coronavirus stock slide",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump dismantling of Obama era disease response leaves US exposed",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Head of U.S. Foreign Disaster Assistance on the coronavirus: \u2018The risk is real.\u2019",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Despite CDC warnings, Rush Limbaugh dismisses coronavirus as effort \u2018to bring down Trump\u2019",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes: Trump is worried coronavirus will be bad for his re-election",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump admin lacks credibility to calm markets on coronavirus news",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump downplays coronavirus amid CDC warning",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House contradictions make coronavirus crisis worse",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Officials say Americans should prepare for coronavirus spread",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "People are 'more vulnerable' to new diseases around the world",
+        "date": "2020-02-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Markets tanked on coronavirus fears. Trump blamed Democrats.",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Braun: 'Long way to go' on Coronavirus preparedness",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump picks Pence to lead coronavirus response. Is the VP ready for it?",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Ami Bera on possible Coronavirus case near his district",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House briefs on coronavirus concerns",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What is the coronavirus and what are the symptoms?",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Markets plunge again amid coronavirus fears",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How to protect yourself against coronavirus",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rates of lethality, transmission shape coronavirus concerns",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "World Health Org Official: Trump\u2019s press conference on coronavirus \u2018incoherent\u2019",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump attacks Dems and contradicts CDC with a false coronavirus outlook",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Stock market plunges as coronavirus fears grip Wall Street",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Report: White House locking down messaging from federal government on coronavirus",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump gives 'incoherent' briefing on coronavirus, contradicts CDC",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Officials say U.S. should prepare for Coronavirus spread",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Reality of coronavirus will challenge Trump's habit of making things up",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump addresses coronovirus surrounded by public health experts.",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus crisis? Dr. Howard Dean says Trump lying about looming medical crisis",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Hotez explains the trajectory of the coronavirus in the U.S.",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Virologist: Good testing key to coronavirus containment",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Walls and bans not a good strategy for addressing coronavirus",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senator skeptical of Trump response to coronavirus",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "With the pressure on, Trump flubs another leadership test",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Leana Wen: California coronavirus case 'could be evidence...",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why Pence is an unfortunate choice to oversee coronavirus response",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "President Trump contradicts health officials on coronavirus...",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Is the White House starting to censor public-health officials?",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Facebook's coronavirus response could lead to regulation",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "As the country worries about the coronavirus, Trump tries to...",
+        "date": "2020-02-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe: WH response on virus has been one mistake after another",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Ebola Czar: U.S 'so far behind' on Coronavirus response",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump dissembling, mixed messages hurt U.S. coronavirus response",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Troubling reports about Trump administration\u2019s response to coronavirus outbreak",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Garamendi: CDC made 'very gross mistake' with Coronavirus evacuees",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi concerned over Pence\u2019s ability to handle coronavirus duties due to science-averse past",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Tip of the iceberg': Doctor raises alarm over coronavirus-related drug shortages",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Matthews: Trump sees coronavirus as opportunity to divide the country",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctor: WH coronavirus response a \u2018colossal failure\u2019",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. braces for more coronavirus cases",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump team's coronavirus rhetoric at odds with scientists and health experts",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: Coronavirus will disappear one day \u2018like a miracle\u2019",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dow drops 800 at open, extending worst week since financial crisis",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Long list of tasks awaits would-be managers of coronavirus outbreak",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump's handling of coronavirus 'could go off the rails'",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Garamendi: Trump admin coronavirus response \u2018reprehensible,\u2019 \u2018dangerous\u2019",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rpts: Trump team's coronavirus response mired by protocol breakdown",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Psychiatrist on Trump\u2019s \u2018dangerous\u2019 response to coronavirus crisis",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Is Trump team's coronavirus response making things worse on Wall Street?",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "CDC issues new testing guidance for health care workers",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Christopher Mores: We need to look to our leaders to put together the best coronavirus response plan",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYT: Whistleblower says US workers responding to coronavirus lacked training, gear",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus continues to rattle the stock market",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus continues rattling the stock market",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Durbin: We should be realistic about coronavirus",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump, Pence give mixed messages on partisanship, virus response",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mike Bloomberg: I believe Sanders would lose to Trump",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "A line on the coronavirus outbreak Trump may come to regret",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House's Mulvaney: Coronavirus coverage 'all about' hurting Trump",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump says he can reassemble a health security team quickly (he can't)",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How concerned are public health officials about misinformation...",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus sparks sell-off, health officials stay on edge",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus fears hit global stocks as Trump administration...",
+        "date": "2020-02-28"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: First U.S. death from coronavirus was a 'medically high risk' patient",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pence announces 'additional travel restrictions on Iran' amid coronavirus outbreak",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Velshi: The damage done to our trust in this government over coronavirus",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New coronavirus cases test readiness of U.S. response protocols",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Former Health Dept. secretary criticizes Trump coronavirus response",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Window of opportunity for containing coronavirus rapidly closing",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Michael Moore: Trump calling coronavirus 'hoax' is 'dangerous'",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "First U.S. coronavirus death confirmed in Washington state",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Elizabeth Warren on Mike Pence leading the coronavirus response: \u2018I cannot think of a worse person\u2019",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Buttigieg on black voters: I\u2019m determined to keep reaching out",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Oregon officials announce first presumed case of coronavirus",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump faces crisis of confidence and competence over coronavirus",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump calls coronavirus fear the Dems' 'new hoax' as more cases are confirmed",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'This is what we expected': Azar discusses risk of coronavirus in the U.S.",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus fears cause stocks to plunge in worst week since 2008 financial crisis",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. prep for coronavirus challenged by resource limitations",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "WaPo: Second coronavirus case confirmed in California",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump calls coronavirus fear the Dems' 'new hoax' as more cases are confirmed",
+        "date": "2020-02-29"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus outbreak continues with two new cases in Washington state",
+        "date": "2020-03-01"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Do face masks actually help prevent coronavirus?",
+        "date": "2020-03-01"
+    },
+    {
+        "source": "msnbc",
+        "headline": "American with coronavirus: 'It hasn't been that bad for me'",
+        "date": "2020-03-01"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Obama official: Truth on coronavirus is science not politics",
+        "date": "2020-03-01"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Hundreds' may have coronavirus in Washington state",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Second death from coronavirus reported in U.S.",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dems, Trump, and officials clash over coronavirus",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctors weigh in on the spread of coronavirus",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: We've asked pharmaceutical companies to 'accelerate' coronavirus vaccine",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Fauci: Coronavirus now at 'outbreak' and 'likely pandemic proportions'",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "More coronavirus cases reported in California",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Quarantined patient speaks as coronavirus cases grow",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "De Blasio: 'For a lot of people' coronavirus is 'manageable'",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Three additional coronavirus deaths announced in Washington state, bringing total to five",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What to do if you think you have the coronavirus",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus may have been circulating in U.S. undetected for six weeks, report says",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NJ Governor: It\u2019s \u201cno time to panic\u201d over coronavirus",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Vanessa Kerry: 'We had weeks to prepare ourselves' for coronavirus",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus kills 4 more in Washington state, bringing total to 6",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Scaramucci: Trump 'covered up' things that didn't need to be covered up",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump, the Coronavirus, and the 'hoax' that isn't a hoax",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Misinformation, social media threatens coronavirus response",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "VP Pence: 'Will listen to experts,' watch cases' for...",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pence delivers coronavirus update: Vaccine could go to trials...",
+        "date": "2020-03-02"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctor says at least 12 to 18 months for coronavirus vaccine",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How the Fed\u2019s emergency rate cut impacts markets, consumers",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Local government officials weigh how to address coronavirus",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How to be prepared for a coronavirus outbreak",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden picks up endorsements as Trump holds a rally amid coronavirus spread",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "WAPO: Trump aide calls coronavirus response 'complete chaos'",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus cases grow across U.S. as testing expands",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Even now, Trump can't shake his preoccupation with Obama",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump's confusion on display during meeting with pharmaceutical execs",
+        "date": "2020-03-03"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. coronavirus death toll rises to 9",
+        "date": "2020-03-04"
+    },
+    {
+        "source": "msnbc",
+        "headline": "United Airlines reducing flights due to coronavirus outbreak",
+        "date": "2020-03-04"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Fair: $8.3B Coronavirus funding bill not \u201cnearly enough\u201d",
+        "date": "2020-03-04"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Los Angeles mayor says Biden a 'great guy, great American'",
+        "date": "2020-03-04"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pence coronavirus briefing: We have a \u2018whole of America approach\u2019",
+        "date": "2020-03-04"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Markets Dive over fears of Coronavirus",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Helping the poor, insured during coronavirus outbreak",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Virus expert explains how to protect yourself from coronavirus",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why it's not a time for Trump's hunches on coronavirus",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "WA Senator Murray angered by lack of coronavirus testing",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump pushing for a coronavirus vaccine, but concerns over cost have risen",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "California governor declares state of emergency",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctor set to appear on Hill over vaccine development",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump discovers (limited) Medicare for all amid coronavirus crisis",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Headline: CA orders state of emergency over Coronavirus",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes on Trump\u2019s failing response to coronavirus",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump contradicts health experts and officials on coronavirus",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sanders: Trump contempt for Congress inhibits coronavirus...",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "De Blasio: We need federal government's help on coronavirus",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "With bogus claim, Trump tries to blame coronavirus missteps on Obama",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "On coronavirus, Trump cites 'hunch' to contradict health experts",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump still sees coronavirus outbreak as a public-relations problem",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fears and confusion surrounding the coronavirus have caused...",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Seattle Mayor: One of the ways to prevent the spread of...",
+        "date": "2020-03-05"
+    },
+    {
+        "source": "msnbc",
+        "headline": "VP Pence delivers coronavirus update: 21 positive cases on California cruise ship",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Columbia U doctor on federal response to coronavirus: \u2018gross amateur hour incompetence\u2019",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Examining how coronavirus can affect the economy",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How could coronavirus impact the U.S. economy?",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Americans desperate for credible information about coronavirus",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pres. Trump during CDC visit: 'Anybody that needs a test can have a test'",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Richard Engel: 'Skeptical' of the decreasing coronavirus cases out of China",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ebola Czar to Trump: Put down the phone",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why U.S. may have to use 'disruptive' measures to halt virus",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus fears are tanking markets. That has Trump worried.",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump is not telling the truth about the coronavirus",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Quarantined nurse raises alarms over being denied coronavirus test",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump only engaged on coronavirus when it became a political crisis",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. HHS Secretary: Trump trying to downplay coronavirus is \u2018dangerous\u2019",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Death toll from coronavirus rises to 14 in the United States",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus rattles stock market for second straight week",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "San Francisco mayor on coronavirus in her city",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why Trump can't be in a state of denial anymore about coronavirus",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "\u2018Frivolous\u2019: Trump rebuked for suing journalists in 2020 campaign",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump coronavirus incompetence 'like its own natural disaster'...",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Novel Coronavirus testing-problems and solutions",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "February jobs report: 273,000 jobs added, unemployment rate...",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House's Kudlow inexplicably says virus 'looks relatively contained'",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why were there delays in coronavirus testing kits?",
+        "date": "2020-03-06"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump and Pence provide conflicting coronavirus updates",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Gaetz accused of mocking coronavirus concerns with gas mask",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump praises coronavirus response as cases rack up and markets spiral",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump goes off message again with coronavirus response",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Health Sec. Sebelius: U.S. way behind on coronavirus testing",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pence says not enough test kits to meet coronavirus demand",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "30 million lack health insurance as coronavirus outbreak spreads",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "A firsthand account of coronavirus",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mohamed El-Erian: The coronavirus is an unusual shock to the economy",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "MSNBC\u2019s Ali Velshi on coronoavirus\u2019 dire economic impact",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New York coronavirus cases jump to 76, Gov. Cuomo declares state of emergency",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'We would like some answers': Passenger describes conditions on cruise with coronavirus cases",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus threat: To the economy, and the presidency",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo says he is 'battling' the federal government's 'mixed messages' on coronavirus",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Austin cancels SXSW as cities brace for economic impact of coronavirus",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Austin Mayor on coronavirus, SXSW cancellation: First concern is public health and safety",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes: Trump is trying to BS his way through the coronavirus outbreak",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Flight attendant leader \"disheartened\" with Trump Admin....",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump coronavirus outbreak response under fire by health experts",
+        "date": "2020-03-07"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Journalist covering coronavirus: U.S. lags behind in testing",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Grand Princess cruise ship to dock in Oakland",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Cuomo on coronavirus: 'We're fighting the fear even more than the virus.'",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Cuomo confirms rise in number of coronavirus cases",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Is Italy\u2019s massive coronavirus quarantine sign of things to come?",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus is changing sports already. How bad will it get?",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "High school junior describes life on cruise ship where 21 people test positive for coronavirus",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Woodrow Wilson lied about \u2018Spanish Flu,\u2019 likely helping it spread",
+        "date": "2020-03-08"
+    },
+    {
+        "source": "msnbc",
+        "headline": "4,300 coronavirus tests conducted nationwide",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "RI Gov. Gina Raimondo on coronavirus precautions",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Seattle area schools closed amid coronavirus outbreak",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi: 'No,' Capitol should not be closed due to coronavirus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Where does the U.S. response to coronavirus stand?",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Crisis Communication: WH Sends Mixed Messages on Coronavirus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dangers from coronavirus beyond the politics of the hour",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe Biden: 'There\u2019s no confidence in the president'",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump proposes payroll tax cut to offset coronavirus economic damage",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Governor Cuomo gives updates on coronavirus in New York",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Global health expert: 'We may be entering potentially another phase'",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Estonian president on Russia, Three Seas Initiative",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe: It is critical Trump get his arms around this virus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Buttigieg sees a familiarity in Joe Biden's campaign",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Impact of mixed messages on coronavirus response",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Donald Trump stares down his first Twitter-immune nemesis",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Public Health Professor: Language around containment of coronavirus \u2018needs to be positive\u2019",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Brennan: 'I wonder if [Trump's] psychologically capable to put the country's well-being first'",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Thomas Kauffman: The world's gotta work together, or we're toast",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Murray: 'I am frightened there is not a sense of urgency from this administration'",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus triggers digital outbreak of rumors, conspiracies and dangerous information",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden: I wish Trump would 'just be quiet' on coronavirus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rising concerns over available coronavirus test kits in the US",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health experts say virus past the point of containment",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Dirty team' doctor in Hong Kong describes life caring for coronavirus patients",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gary Cohn: People are trying to price in behavior based on coronavirus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Inside the Singapore lab on the front lines of the fight against coronavirus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Lee: Dealing with coronavirus is about 'truth-telling' and 'protecting the public'",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Richard Hatchett: 60-70% of world's population could become infected with coronavirus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gaetz, Collins had contact with Trump before entering self-quarantine",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pence: Don\u2019t know if Trump has been tested for coronavirus",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Presidential tweets can't paper over Trump's coronavirus failures",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "On coronavirus, Trump maintains unhealthy focus on 'the numbers'",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. quarantine to curb virus spread 'a good possibility'",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump struggles to explain why he disbanded his global health team",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump thinks he may have 'a natural ability' to address viral outbreaks",
+        "date": "2020-03-09"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden, Sanders cancel rallies amid coronavirus concerns",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pence delivers coronavirus update after Trump travels to Capitol Hill",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Krishnamoorthi: Trump admin not answering Coronavirus questions",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Containment zone' set up around NYC-area coronavirus epicenter",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Kim Schrier on coronavirus in her district",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Cantwell on the Washington state coronavirus response",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump faces huge leadership crisis over coronavirus and the economy",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rattner's charts: Coronavirus re-ignites recession fears",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "De Blasio: New York can't shut down over undue fear",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Grand Princess passenger: \u201cIt\u2019s very concerning for us\u201d",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "DNC: There will be no live audience at upcoming debate",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe: Trump understands this is not the flu",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump says White House doctor 'sees no reason' to test him for coronavirus",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Washington planning ahead for expected coronavirus surge",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Obama economist: Trump's coronavirus payroll tax cut not the answer",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Airline CEO claims coronavirus \u2018more serious challenge\u2019 for industry than 9/11",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ruhle: 'Fears of a global recession are real' due to coronavirus",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump compared coronavirus to the flu. Here's why that's a bad idea.",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Demand for action from the White House as coronavirus fear spreads",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes: Despite what Trump says, the U.S is in a coronavirus outbreak",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NY Gov. Cuomo on steps to contain coronavirus outbreak",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Natl. Guard deploying to NYC-area Coronavirus epicenter",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump admin bungling overshadows crucial coronavirus advice: AP",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Mark Warner on the impact of coronavirus",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Washington drawing on multiple partners to build coronavirus testing capacity",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Redlener: CDC needs to give directions, not suggestions so the entire country is on the same page",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden: Trump has \u2018no competence in how to handle this crisis\u2019",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Saudi Arabia seizes oil market by the throat; stock market chokes",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "GOP lawmakers exposed to coronavirus at conservative conference",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Capitol remains open amid coronavirus outbreak",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "As coronavirus crisis intensifies, Trump to push new tax cut",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "At the White House, officials start operating outside their lanes",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "National Guard to help as 'humanitarian manpower' in New Rochelle",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep Slotkin: 'We see no signs of election interference' in...",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump promises to unveil economic plan that doesn't yet exist",
+        "date": "2020-03-10"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Concerns over economic fallout from coronavirus",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus or flu? Viewer questions answered",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus closures create burdens for poor students",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Redlener: We need from the government, absolutely clear directions",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rhode Island Governor on coronavirus: Federal govt response \u2018inconsistent, delayed\u2019",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ruhle: Trump\u2019s inaction turned coronavirus into a financial crisis",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Public heath version of Hurricane Katrina': Lawmakers sound off on COVID-19",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Fauci on coronavirus: \u2018It\u2019s going to get worse\u2019",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Sean Patrick Maloney: What\u2019s missing is leadership",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. surgeon general: Social distancing 'so essential right now'",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus could derail the 2020 Democratic National Convention",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump incompetence on coronavirus changes dynamics for 2020",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYT: Flu samples sat untested for weeks in Seattle",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What happens if we don't 'flatten the curve' of coronavirus in the U.S.",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'We are 10 days away from the hospitals getting creamed,' warns fmr. homeland security adviser",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Cuomo explains how containment area will work",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "World Heath Organization declares coronavirus a pandemic",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Epidemiologist on how to contain the coronavirus",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hayes: Coronavirus has sent 2020 into a 'totally different universe' than just weeks ago",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Bottleneck' in coronavirus resources as Trump set to give Oval Office address",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Markets fall again over coronavirus, investors watching stimulus efforts",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Johnson: Trump admin 'hasn't overreacted' on COVID-19 response",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ill. gov. 'extremely disappointed' with government response",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "German laboratory ramps up production of new COVID-19 test",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump proposes payroll tax cut through end of year",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hundreds of coronavirus self-test kits sitting in U.S. awaiting FDA approval",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Colorado Governor on his state's response to COVID-19",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'It will go away': Trump's coronavirus rhetoric isn't getting better",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Boston looking at how to pay hourly school workers in case of...",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump administration isn't backing off proposed cuts to CDC budget",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NIH's Fauci wishes Trump hadn't disbanded global health unit",
+        "date": "2020-03-11"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus poses higher risk for homeless population",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump has yet to declare a national emergency over coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump changes tone after dismissing coronavirus as a Democratic 'hoax'",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Katie Porter: \u2018Nobody should be deterred\u2019 from seeking coronavirus testing",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Paid sick leave, abortion debate delaying coronavirus aid approval",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Infectious disease expert: Half of America is likely to catch coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'We had to move quickly': Trump defends new travel restrictions for coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Raimondo: Government is two weeks late on coronavirus pandemic",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chicago Mayor on new cases of coronavirus in IL and canceling key events",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Tom Hanks, Rita Wilson test positive for coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden: Coronavirus 'laid bear' the 'shortcomings' of the Trump administration",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus vaccine could take up to a year to develop",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus spread threatens to overwhelm US hospital capacity",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus enters devastating new phase",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Connecticut Governor on coronavirus: We need more testing",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Families have needs': Pelosi calls for passage of coronavirus relief bill",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Recovering coronavirus patient thought she 'had a nasty strain of the flu'",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump addresses a nation on edge as local officials lead on coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What constitutes a compromised immune system?",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NBA suspends rest of season after player tests positive for coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House\u2019s crisis of credibility while anxiety around coronavirus soars",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYT reports on how right-wing pundits cover coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Eric Swalwell: We want the president to win on this issue",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Lawrence and Rachel on the NBA suspending their season due to coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump speaks to nation after number of U.S. virus cases in U.S. passes 1,000",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ohio governor says state needs more virus tests",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hunt: 'I have to say \u2026 it feels a lot like we\u2019re in uncharted territory here.",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Meng responds to 'false and harmful' attacks on Asian community",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trading halted after stocks plunge following Trump's coronavirus response",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Schiff on Trump's response to coronavirus: 'Incompetence kills'",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Katie Porter on the federal response to coronavirus",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Congresswoman's bill targets maternal mortality",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "David Sirota: Coronavirus shows that our healthcare system has become \u2018a national security threat\u2019",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes on how the U.S. is on Italy's coronavirus trajectory",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Europe travel ban, Tom Hanks, NBA suspends games",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "COVID-Quarantine? U.S. law gives broad powers to stem infectious disease",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. unprepared for expected explosion in coronavirus cases",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump bans travel from Europe, bringing invasion mindset to...",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Concentrations of elderly in US calls for pro-active testing",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why Trump isn't negotiating with Pelosi on coronavirus response",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus responses reportedly added to Jared Kushner's portfolio",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "In Oval Office address, Trump flubs his own coronavirus policy",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Jeh Johnson: I'm very concerned the number of recorded cases...",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Weaver: Sanders will campaign for Biden if he is the nominee",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Despite reality, Trump insists virus testing 'has been going very smooth'",
+        "date": "2020-03-12"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes: The failure of coronavirus comes from the top",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Education Secretary: 'Schools can be food distribution centers'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump breaks coronavirus rules at his coronavirus emergency announcement",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why the unknown is 'driving markets crazy'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump's coronavirus speech raised more questions than it answered",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump plans to declare national emergency over coronavirus",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Two very big words': Trump officially declares coronavirus 'national emergency'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Velshi: Market could stabilize with \u2018firm hand\u2019 from government",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Top health official admits coronavirus testing system is \u2018failing\u2019",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "When it comes to flying during coronavirus crisis, 'preparation matters'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How a country serious about coronavirus does testing and quarantine",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Former Director at USAID: Threat of coronavirus 'is transmissibility'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Maryland governor talks coronavirus testing",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Wallace: With emergency declaration, Trump tries to erase stain of disastrous oval office address",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "We'll be in this for many months, says doctor",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Jon Meacham: Trump's reaping what he sowed after attacking government",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "\u2018It's insane that we're leaving D.C.\u2019 Sen. Merkley on Senate break amid coronavirus pandemic",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Katie Porter gets Trump CDC Director to commit to free coronavirus testing",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus disrupts daily life as Trump fails to calm a nation on edge",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NY Rep. Max Rose: \u2018The American people need action\u2019",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Insufficient testing hurts U.S. coronavirus response",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Rep. Barney Frank on coronavirus escalations",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump, Democrats standoff over coronavirus response bill",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes: The failure of coronavirus comes from the top",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Nancy Pelosi says deal has been reached on coronavirus response package",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "ER doctor explains what to do if you start showing coronavirus symptoms",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why was it so hard to come up with a test for the coronavirus?",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Beyer describes life under self-quarantine",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Pocan: Military does not have test kits for soldiers in Afghanistan",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump admin fails on basic guidance to Americans facing coronavirus",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi calls for a 'whole of government' response to coronavirus",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Americans see massive disruptions to daily life as coronavirus spreads",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Obama adviser: Coronavirus economic effects \u2018bigger than 2008\u2019",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Psychiatrist shares tips for reducing anxiety amid coronavirus pandemic",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYC council speaker calls for schools to close over coronavirus",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Situation stabilizes in China as coronavirus cases grow globally",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. coronavirus testing still months behind where it needs to be",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Los Angeles Mayor Garcetti on coronavirus response: This time period is 'make-or-break'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. reeling from coronavirus testing shortage as Trump says he won't take any responsibility",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sophie Gr\u00e9goire Trudeau, wife of Canadian PM tests positive for coronavirus: AP",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What can government do as coronavirus wreaks havoc on the economy?",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What if hospital run out of ventilators amid COVID-19 crisis?",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Cuomo discusses the 'new approach' of drive-through coronavirus testing",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Miami mayor with coronavirus: I'm still the mayor but doing it in quarantine",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mayor\u2019s dire warning: Coronavirus cases could spike 15 times by April",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Gillibrand explains Congress' paid sick leave bill",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "A 5-point plan for pharmaceutical companies",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Disruption of our lives': Hear the prescient warning that anticipated COVID-19",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. ill served by Trump's repeated lying about coronavirus...",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Insufficient testing mars U.S. coronavirus testing",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Congressman criticizes WH response to coronavirus",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Global health expert: Federal response to this has been 'so poor'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Oakland Mayor: 'We need every level of govt' to combat...",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Fauci: I expect more cases and I expect an acceleration of...",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Team Trump deals with fallout from failed Oval Office address",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Global health expert: Federal response to this has been 'so poor'",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump declares national emergency over coronavirus",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Zeke Emanuel: The further spread of coronavirus has to be...",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump touts virus testing policy that does not exist",
+        "date": "2020-03-13"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New data on coronavirus vaccination",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Velshi on coronavirus: \u2018It\u2019s critical that we keep getting the right info\u2019",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Rep. Edwards: Coronavirus highlights low-wage workers\u2019 needs",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why slowing the spread of coronavirus is critical to public health",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump is still shaking hands during coronavirus pandemic",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NY Gov. Cuomo on first coronavirus death in New York City",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How has misinformation and mismanagement impacted Trump's coronavirus response?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'It's tragic': NYC mayor comments on first coronavirus death in New York City",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What pregnant women need to know about the coronavirus",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Seattle mayor shares insights on responding to coronavirus outbreak",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYC Mayor: We\u2019ve been begging fed. gov. for coronavirus help",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Will warm weather get rid of the coronavirus?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden and Sanders campaigns go virtual amidst coronavirus outbreak",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Infection rate charts forecast steep rise in US coronavirus cases",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "National emergency declared over coronavirus as country braces for influx of cases",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Will coronavirus outbreak impact 2020 elections?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How Trump's mistakes made coronavirus worse",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "If you contract coronavirus, can you get it a second time?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How can you avoid potential scam emails about coronavirus?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "\u2018People are looking for clarity in leadership:\u2019 Rep. Slotkin\u2019s advice to leaders on coronavirus",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How can you treat symptoms of coronavirus and when should you be tested?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: 'I decided I should' take the coronavirus test",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Threat of crush of coronavirus cases calls for creative solutions",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fear is dangerous: Keys to handling coronavirus and avoiding panic",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus impact on Trump's mental state hypothesized by author",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Global health expert: U.S. should do 150K coronavirus tests daily",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Durbin: Coronavirus testing rate has been disappointment",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump, Dems reach coronavirus relief deal as national emergency is declared",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Clark: Families will be first ones hit by economic fallout from coronavirus",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How different are the COVID-19 symptoms from having the flu, allergies?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "The Cult of Trump during coronavirus",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Where is the U.S. on the coronavirus curve?",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "No quick solution to treat coronavirus despite hopeful leads",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Medical experts answer your questions about coronavirus",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump says \u2018I don't take responsibility\u2019 for coronavirus failures",
+        "date": "2020-03-14"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Delaying primaries due to coronavirus",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump 'very happy' Fed cut interest rates",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump shows off 'release' from Google now building coronavirus website",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fox News Coronavirus reports could harm main audience experts say",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Velshi on fact-checking your coronavirus fears",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "American under quarantine in Italy on what U.S. could face",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Fauci says we're at 'critical point' in flattening coronavirus curve",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Just relax': Trump says we'll 'all be great' amid coronavirus pandemic",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Kearns Goodwin: Great leaders need to communicate to the people",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Renzi: Don\u2019t underestimate the situation",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Will New York City enter a coronavirus shutdown?",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Healthcare experts speak out on Trump\u2019s coronavirus response",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Porter: CDC director says gov. will fund coronavirus testing",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How long can coronavirus stay \"alive\" in the air?",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Infectious disease expert: North America's coronavirus situation will unfold over months",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New Rochelle starts drive-thru COVID-19 testing",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pence: 2,000 labs 'coming online' to process free coronavirus tests",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NBC/WSJ poll shows coronavirus affect on American's day-to-day lives",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Don't be sanctimonius': Rev. Al Sharpton's final thoughts on coronavirus concerns",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What can one do about their 401k during the coronavirus pandemic?",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump tweets he is considering pardon for Flynn",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Joe Neguse asks Americans to be kind to others amid outbreak",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Low voter turnout during coronavirus outbreak may hurt Democrats",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Crist: Coronavirus response not about left vs. right",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'We're all on pause': How will the coronavirus affect the Olympics?",
+        "date": "2020-03-15"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus cure? Hear from top scientist who spent 'years' devising cure for COVID-19",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dem candidates debate amid coronavirus outbreak",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. declares state of emergency over coronavirus",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Disconnect from scientists, Trump on coronavirus continues",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hoboken under curfew, San Francisco issues \u2018stay at home\u2019 order",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Supreme Court postpones oral arguments over coronavirus pandemic",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Van Hollen: 'The Senate should never have left town'",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Confirmed cases of COVID-19 in the United States crosses 4000",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Gottheimer on coronavirus relief deal heading to the Senate",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Could FDIC not deliver on insurance if banks fail?",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. De Blasio calls for 'full-war footing' to help save lives",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "America begins to shut down as coronavirus cases and death toll climb",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ohio Gov. DeWine recommends postponing in-person primary voting",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe: Trump was so ill-prepared on airport screenings",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Celebrity chef Tom Colicchio explains effect of coronavirus on service industry: 'Revenue is gone'",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Ryan: 'We are in a depression style government'",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "First person to test coronavirus vaccine speaks out",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Andy Slavitt: 'It\u2019s #stayhome'",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Contrast could not be more stark': Unlike Trump, Biden and Sanders pledge to listen to science",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Breaking down the Fed\u2019s mission as trading halted at another market open",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Warner: 'I don't think we should have gone out of session on Friday.'",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "School shutdowns put poorest kids at risk",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New Jersey governor closes schools, casinos to slow coronavirus spread",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump recommends stricter guidelines to slow the spread of coronavirus",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hospitals send younger staff to front lines of treating coronavirus",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump credits 'very fair' media and Jeff Bezos' WH coordination on coronavirus",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What is the coronavirus \u2013 and what should you do about it?",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Is it safe to fly to visit ill, elderly parents?",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Legal analyst discusses his bout with coronavirus",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'No one will critique' the U.S. if we over-prepare, says doctor",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New York Gov. Andrew Cuomo calls for federalized virus response",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: Could be dealing with coronavirus outbreak through July...",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New Jersey Governor on coronavirus: We\u2019ve got to flatten this...",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What does breakdown in the hospitals look like?",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Change in tone' from Trump as White House announces new...",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "When could the coronavirus curve flatten in the U.S.?",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Donating sanitizer and mass-producing face masks, businesses...",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Khanna: I believe our governors and mayors are doing a...",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "On virus missteps, Trump declares, 'I don't take responsibility at all'",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "It's not 'nasty' to ask why Trump disbanded his global health unit",
+        "date": "2020-03-16"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Recovering from coronavirus, Goldman describes testing ordeal",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How coronavirus is complicating the 2020 Census",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "McConnell: Coronavirus response 'requires extraordinary measures'",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYC warned of possible shelter in place order as efforts to fight coronavirus intensify",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Will Maryland consider closing the eastern shore due to virus concerns?",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House calls for trillion-dollar coronavirus package",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How families can fight coronavirus as a unit",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes on the lack of precedent for the coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Lawrence: Trump gave Republicans false hope on coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Shuttered by coronavirus, bar and restaurant workers push D.C. for a bailout too",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Coons: 'my hope and expectation' that coronavirus relief bill will pass through senate today",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mnuchin considers sending checks to Americans as part of coronavirus relief",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "A primary in the time of coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Mikie Sherrill on coronavirus precautions",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Elizabeth Warren explains economic stimulus coronavirus package",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Michigan Governor Gretchen Whitmer on coronavirus precautions",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump gives his own coronavirus response a 10 out of 10",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. braces for COVID-19 induced social isolation that could last into summer",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dow rises after Trump acknowledges coronavirus economic impact",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How to balance public health, civil liberties in time of coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senators push for vote by mail as coronavirus keeps people at home",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dramatic shift in tone from the White House",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYC Mayor de Blasio: \u2018Be prepared\u2019 for possibility of \u2018shelter in place order\u2019",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How to disinfect your home when cleaning products are sold out",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cities work to test and isolate homeless population, preventing fast spread of virus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Governor Cuomo pushes for unified state response to coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Business response to coronavirus transforms American work habits",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ohio primary postponed due to growing coronavirus concerns",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump says U.S. may suffer a recession, but are we already there?",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mnuhcin considers sending checks to Americans as part of coronavirus relief",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus may lead Republicans to spend big to bail out America",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Disease research doctor: Coronavirus \u2018will blow right past\u2019 Trump's July and August claims",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo on coronavirus: 'This is a character test for all of us'",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rattner: We will have to come to grips with bailouts",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ben Rhodes: \u2018We are going into a crisis without presidential leadership\u2019",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Our economy is shutting down': Clinton WH veteran pushes lives over dollars in COVID-19 crisis",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Conn. gov.: 200 nurses furloughed due to lack of coronavirus testing, Danbury hospital at capacity",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Here are some of the latest measures countries are taking to fight coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "State and local governments ramping up already extraordinary containment measures",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Is delivery a better option than dining out while social distancing?",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Shelter-in-place starts in S.F. but could become nation policy",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus continues impacting daily life in Italy",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Nicholas Kristof on how to tackle the coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Jon Meacham: This crisis calls for a consistent presidential...",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Can Trump continue a steady approach on coronavirus?",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Keeping emergency hospital staff safe in face of coronavirus",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Revising history, Trump makes bizarre claim about pandemic foresight",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Is there a way to predict when COVID-19's peak will hit?",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump falsely claims 'nobody ever thought about' virus a month ago",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Team Trump received pandemic warning - in January 2017",
+        "date": "2020-03-17"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Quarantined Miami mayor on decision to hold Florida primary amid coronavirus",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "McConnell: 'Congress has an enormous role to play' in coronavirus response",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senate votes to pass coronavirus relief bill",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Durbin: We want to \u2018send money\u2019 to workers and families",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Surreal scene': NBC News' Jacob Ward talks S.F. 'shelter in place'",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus in Trump's America? Nurse diagnosed with virus initially denied test",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "San Francisco mayor: Residents following coronavirus 'shelter in place' order",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump and Trudeau agree to close U.S.-Canada border",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Small businesses feeling the brunt of coronavirus pandemic",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Which states will be most difficult to implement vote by mail?",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Two checks: Senate working on sending direct money for coronavirus relief",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Safety, economics, and harsh reality shape coronavirus response",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Can hospitals recruit medical student volunteers to help coronavirus patients?",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chicago mayor: Primary vote going as best it can during coronavirus",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYC mayor: 'Torrent' of new coronavirus cases coming, military aid may be needed",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New Rochelle mayor on coronavirus: Our people have risen to the occasion",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "VA's mission to see civilian patients vanishes from site: WaPo",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sources: WH officials warn Senate GOP of 20% unemployment",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYC Mayor on federal coronavirus aid: Can't wait for help that may not come",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mark Cuban tells government to 'print as much money as it takes' to save businesses",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How many days is someone contagious before coronavirus symptoms start to appear?",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Engel: Refugees 'most vulnerable' amid coronavirus pandemic",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How coronavirus is affecting turnout in Illinois",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "John Legend references coronavirus during Instagram concert",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "More than 7900 cases of coronavirus confirmed in the US",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Concerns of subsequent surges cloud long term view of coronavirus spread in U.S.",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Confirmed cases of COVID-19 in the U.S. reaches 6000",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Garrett: Only a short time left to decide where to hunker down and wait out pandemic",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "From 'hoax' to war: Reversing course, Trump invokes 'war' powers to combat coronavirus",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "WSJ: Detroit auto makers to temporarily close US plants over coronavirus concerns",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trudeau: U.S.-Canada border will close but 'essential travel will continue'",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe: The Democratic race is now all but over",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chuck: 'This isn't the time' for Rand Paul to focus on the Afghan war",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ford to halt North American production over coronavirus outbreak",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Yamiche Alcindor: Trump sees coronavirus as \u2018direct risk to economy, a big part of re-election bid'",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden sweeps Sanders in 3 states on one of the strangest primary days in recent history",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo: Trump responding to request for federal help on coronavirus",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus rattles U.S. democracy, delaying key presidential primaries",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Engel: It's 'easy to scapegoat' foreigners amid coronavirus pandemic",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How to keep U.S. workers safe during coronavirus",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus changes Democratic primary stakes as race drags on",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Republican governor says Trump made 'mistake' on coronavirus",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "5 to 10 undetected cases for every confirmed case, says study",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Turnout expected to be higher than 2016 in Florida Democratic primary",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "McCaskill: Rand Paul should act like a grownup, stop 'outrageous' hijack of Senate",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "As Drake self-isolates, singers John Legend and Melisa Etheridge perform for fans at home",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Insufficient testing hampers US response to coronavirus",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Jeh Johnson weighs in on coronavirus response",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe: What will be done today to make testing more available?",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Hogan: I want to focus on what we can get done today",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Should there be strings attached to corporate bailouts?",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus testing ramps up, US still lags behind",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ambulatory surgery centers can expand surge capacity",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House tries to convince millennials to take coronavirus...",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why are three college seniors in influential White House posts?",
+        "date": "2020-03-18"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Restaurant industry reeling from coronavirus",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump signs first coronavirus aid bill",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Congressman speaks out about Coronavirus diagnosis",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus death toll in Italy officially surpasses China",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What can you do if coronavirus impacts your travel plans?",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: It's not racist to call coronavirus the 'Chinese virus'",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "American in Peru is 'not sure' how to get home with coronavirus travel restrictions",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Schumer: Any coronavirus bailout 'needs to put the workers first'",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "The key to preventing coronavirus is cheap, simple and scientifically proven",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Top Obama & Clinton economist: U.S. is in a \u2018great worker recession\u2019",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Europe becomes new epicenter of coronavirus pandemic",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Small businesses feeling brunt of coronavirus crisis",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Delaware Governor: We\u2019re looking to federal govt for support",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Recipe for disaster:' The spread of coronavirus among detained populations",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo issues new work from home order as coronavirus cases surge",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'We are the most at-risk state in the nation'",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Schumer: We need bold, quick, bipartisan action",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health care workers getting sick amid shortage of hospital supplies",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Markets down as unemployment claims rise due to coronavirus",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump signs aid bill as U.S. coronavirus cases surpass 8,600",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Former FEMA administrator cuts off coronavirus debate on live TV",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Johnson: The federal government's role is to dispatch resources",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Critical care nurse: Lack of coronavirus supplies causing 'fear and insecurity'",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "How to protect family members in a household where one has tested coronavirus positive",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "State Dept. will issue 'Level 4' travel warning, according to report",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Cuomo: We need the federal government to step up",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Former Surgeon General provides a reality check on readiness of virus treatments",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Grim future for beleaguered hospitals seen in lag time from infections to critical illness",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "China to report first day of no new coronavirus infections...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Italian town's success suggests testing, containment key to...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Seven states doing surprisingly little to curb spread of...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Two members of Congress test positive for coronavirus",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Failure to identify, isolate coronavirus infections puts U.S....",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "World markets react to the coronavirus",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "WHO Director: Lifting social distancing too soon could cause...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hakeem Jeffries: We need to \u2018provide continuity of financial...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Tom Colicchio discusses how Congress can help the restaurant...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Obama official: New coronavirus cases \u2018just the tip of...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus analysis: MSNBC' Joe Scarborough weighs in on...",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Recording shows key senator ringing virus alarm in February",
+        "date": "2020-03-19"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'You're a terrible reporter': Pressed on coronavirus, Trump berates NBC's Peter Alexander",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "UCLA Epidemiologist: Americans need to pull together by staying apart",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Virus scandal: Senators accused of profiting off coronavirus info",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "De Blasio: The federal government has been absent",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "California under statewide stay-at-home order, says 25.5M there may get virus",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Emanuel: Social distancing is of vital importance",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mayor Bill de Blasio: New York City is now 'the epicenter of [the coronavirus] crisis'",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Andrea Mitchell chokes up remembering NBC News colleague who died from COVID-19",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Longtime NBC News employee dies after testing positive for coronavirus",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senators under fire for selling stocks before market plunge",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Doug Jones: Reimburse employers who continue to pay furloughed employees",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Perskin: 'We don't have the evidence yet' for an anti-viral therapy",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctors, nurses, hospitals desperate for supplies as coronavirus cases climb",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump uses coronavirus briefing to attack media covering a pandemic",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health care facilities brace for an onslaught of coronavirus cases",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Temporary hospital being constructed on soccer field in Washington",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYT: Trump admin. asking state officials to hold off releasing unemployment numbers",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Michigan Governor talks State of Emergency declaration",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. coronavirus cases top 13,000 as Trump tells states to do more",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "As N.Y. coronavirus cases rise, Cuomo orders entire non-essential workforce home",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Amazon to hire 100K workers amid online order surge",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senate GOP unveils virus relief plan",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Straight talk on the search for a coronavirus cure",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "California governor issues state-wide order to stay at home",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. faces a dire shortage of ventilators",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes on the vacuum of leadership in the era of coronavirus",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump deflects responsibility for sluggish coronavirus response",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "White House: Pence staffer tests positive for coronavirus",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Peter Alexander on being called 'terrible reporter': I was pitching the president a 'softball' question",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Peter Alexander on being called 'terrible reporter': I was...",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Phil Murphy: First New Jersey drive-thru testing site was...",
+        "date": "2020-03-20"
+    },
+    {
+        "source": "msnbc",
+        "headline": "A warning against vaping",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "WAPO: Intel reports warned Trump admin. of likely pandemic",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Restaurateur: We need to 'make sure our employees get money in their pockets to pay their rent'",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Kennedy: The current relief plan is \u2018completely divorced from reality\u2019",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What to do if you think a family member has coronavirus",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Kamala Harris on coronavirus: Paid sick leave saves lives",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. coronavirus cases top 18,000 as states push Trump to act",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Cuomo announces there are over 10,000 cases of coronavirus in New York",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Global health expert: Testing fundamental to beating COVID-19",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'It is not unreasonable for me to be hopeful': Pastor diagnosed with COVID-19 shares uplifting message",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Arne Duncan on Trump\u2019s missteps: \u2018The consequences are beyond devastating\u2019",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo: New York will 'immediately' conduct trials for coronavirus drug therapy",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why workers and small businesses need full coronavirus bailouts",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "States wait for federal help at their own peril as coronavirus crisis builds",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pettypiece: Trump's coronavirus claims 'giving people false hope or a false sense of security'",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Remembering beloved colleague Larry Edgeworth who died after contracting coronavirus",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Kudlow: Coronavirus stimulus package could total more than $2 trillion",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Schumer: Senate Democrats put workers first in coronavirus bill",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "State, local officials take coronavirus action into their own hands amid inadequate federal response",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Obama ebola czar: Americans shouldn't listen to Trump about coronavirus",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes: U.S. faces three dire crises right now",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "\u2018Using a squirt gun to put out a fire\u2019: The lack of protection for healthcare workers amid coronavirus pandemic",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump irresponsible, dangerous with lies and happy talk on...",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "GOP senators sold stock after secret coronavirus briefing",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health care workers on their own against coronavirus as...",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "ER Doctor: Trump is \u2018not listening to people on the front lines\u2019",
+        "date": "2020-03-21"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rob Reiner and Max Brooks stress need for social distancing",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "\u2018We\u2019re scared\u2019: Cancer patient describes hospital visits amid coronavirus outbreak",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Cuomo on price gouging: \"I'm competing against every other state\"",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "If you think you had COVID-19, how long should you self-isolate?",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Velshi: Industry bailouts should be on OUR terms",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Carter: \u2018We have the best healthcare system in the world\u2019",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Booker on coronavirus bill: Number one concern is workers",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Americans stranded abroad amid coronavirus outbreak",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gina McCarthy: \u2018Climate change is also a huge vulnerability for us\u2019",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Diane Swonk: The U.S. is losing jobs at an \u2018unprecedented\u2019 pace",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Watch Trump react after learning Mitt Romney is self-isolating",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'We are allowed to go outside': Dr. Azar shares tips for quelling anxiety while stuck at home",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "First federal inmate tests positive for coronavirus in NYC",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Slavitt: Democrats and GOP need to and hammer out a deal",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi on coronavirus relief plan: Democrats will \"be introducing our own bill\u2019",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Zimmern: Coronavirus pandemic 'reveals the flaws in every single piece of the system'",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctor on coronavirus: Numbers are going to skyrocket",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Rand Paul tests positive for COVID-19",
+        "date": "2020-03-22"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Durbin: We don\u2019t want stimulus to pay for CEO \u2018vacation hideaway\u2019",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump wants to begin 'opening up our country' despite coronavirus outbreak",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Schumer takes issue with corporate bailouts in stimulus bill: \u2018We need to protect the workers\u2019",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Democrats hold coronavirus stimulus over transparency and local funding",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Human Rights Campaign warns LGBTQ community is at risk during coronavius crisis",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. healthcare workers confronting spike in virus cases",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Breaking down Trump's Sunday news conference",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Gillibrand: 'President isn't making any sense' on wanting to return to normalcy",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Congresswoman calls for rousing manufacturing base",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Despite increased measures to prevent spread, COVID-19 cases soar in Europe.",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Gupta: A national lockdown was needed \u2018from the get-go\u2019",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Inside NYC\u2019s first responder response: 'The great unknown' has people concerned",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi unveils new act as coronavirus stimulus bill fails for a second time",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Democrats and Republicans at odds over details of coronavirus stimulus package",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senator Tammy Baldwin: 'We are making progress' on the coronavirus relief stimulus",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Physicians explain what's needed to curb virus",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Ed Markey defends Senate Democrats blocking emergency coronavirus bill",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus stimulus bill fails in Senate, Sen. Paul tests positive",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Elizabeth Warren on the standoff over stimulus bill",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Are you kidding me?': McConnell blasts Democrats over coronavirus stimulus deadlock",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'Shut down this country for two weeks'",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctor criticizes Sen. Paul for not self-quarantining",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYT: Scientists identify 69 drugs to test against virus",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump jokingly walks away as doctor says she had fever over weekend",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump fact-checked by top doctor: Virus cases rising for weeks to come",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'The system was blinking red': Virus warnings went unheeded",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Former Homeland Secretary explains how Defense Production Act...",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Three words Trump should not utter about epidemiology: 'Just a feeling'",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Why the economic stimulus talks in Congress have faltered (for now)",
+        "date": "2020-03-23"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus is over (if you want it)",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mayor: U.S. is going through \u2018three pearl harbor attacks at the same time.\u2019",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "RI governor on federal help to fight coronavirus",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Idaho governor neglects to set statewide coronavirus rules",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Murdochs failed to rein in Fox News \u2018hoax\u2019 narrative amid coronavirus: NYT",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump's patience with Dr. Fauci begins to wear thin",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes: Republicans are misreading our choices for coronavirus response",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hospitals scramble to expand capacity as coronavirus cases spike",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Biden criticizes Trump's coronavirus response: 'He should stop talking'",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "McConnell expects to reach deal on stimulus with Mnuchin, Schumer",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Experts debate lack of coordinated U.S. response to virus",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi says negotiations on the coronavirus relief package are in the 'red zone'",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Van Hollen: Congress is making 'good progress' on relief bill",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo details increase in coronavirus cases: \u2018We\u2019re now looking at a bullet train\u2019",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Bernie Sanders on the coronavirus response: \u2018Act in an unprecedented way\u2019",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rebuffed: Watch Trump\u2019s own medical expert fact-check him at WH coronavirus briefing",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'The clock has run out': McConnell discusses need to pass coronavirus relief",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Brady stresses need to 'protect' seniors amid coronavirus outbreak",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Joe Biden to loved ones of coronavirus victims: \u2018My heart goes out to them\u2019",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mayor Garcetti says that the situation for hospitals in Los Angeles is 'tenuous'",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What other states can learn from New Mexico's coronavirus response",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump talks up drug that hasn't been tested to treat coronavirus",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Schumer: Proposed coronavirus stimulus plan will 'deal directly with this crisis'",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump hints at early end to coronavirus restrictions as pandemic accelerates",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump eager to end social distancing as virus spreads faster",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health workers crowdsource protective gear amid coronavirus...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Maddow: The president of coronavirus response is in New York",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "PM Johnson orders lockdown amid coronavirus fears",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump frustrated by how pandemic is defining his presidency:...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'This is not political': Congressman says his state is in need",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ari Melber: Trump saying 'we're near the end' of virus spread...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Shalala: 'Dangerous and immoral' on Trump suggesting to...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Lawrence: \u2018Donald Trump is not in charge here\u2019",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump signals possible retreat in fight against coronavirus",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Murphy: We\u2019re asking for transparency to \u2018protect workers...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chef Jos\u00e9 Andr\u00e9s has a plan to feed Americans during the...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump coronavirus briefing: Decision to reopen will be 'based...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi stresses need to 'take care of our workers' in...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi: Dr. Fauci is a 'truth teller\" and lifting restrictions...",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Texas' Dan Patrick: many seniors willing to sacrifice for economy",
+        "date": "2020-03-24"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Gillibrand: \u2018We are going to recover\u2019",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Parker: Trump incredibly frustrated coronavirus has economy shut down",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump wants 'packed churches' on Easter despite grim coronavirus warnings",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Azar: 'Rosy picture' painted by Trump is not the reality inside hospitals",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Ezra Klein: Trump's economic view of coronavirus a \u2018false choice\u2019",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mardis Gras, coronavirus make 'perfect storm' crisis in Louisiana",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rucker: Trump worried about coronavirus harming economy before 2020 election",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Public health expert weighs in on possible coronavirus treatments",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Schumer breaks down massive coronavirus aid package",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hospitals scramble to expand capacity as cases of coronavirus spike",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Katherine Clark says goal is to pass coronavirus relief package by week's end",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senate set to vote on two trillion dollar coronavirus aid package",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Ocasio-Cortez on coronavirus rescue bill",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Dick Durbin on coronavirus stimulus bill",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Helping struggling Americans during coronavirus crisis",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'A drum beat of one': Trump's call to 're-open' nation by Easter called 'dangerous', 'immoral'",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New York becomes the epicenter of the coronavirus crisis in the United States",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Chris Coons: Senate coronavirus stimulus bill 'does a lot of good' for Americans",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Congresswoman calls on Trump to use Defense Production Act",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'The Senate stepped up': McConnell praises deal on coronavirus relief",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Construction industry feeling impact of virus",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NYPD Commisioner: 'Triple' normal rate of officers out sick",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo: New York coronavirus hospitalizations higher than initial estimates",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Republican senators may delay coronavirus relief bill over 'drafting error'",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NJ Gov. Murphy on coronavirus: We need the federal government in a big way",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Calling All Corpsmen-In this Time of Pandemic",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mississippi governor untroubled by COVID crises in neighboring...",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "'A drum beat of one': Sen. Cory Booker on Trump's calls to...",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mardi Gras, coronavirus make 'perfect storm' crisis in Louisiana",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "WHO doctor: We have to make it hard for virus to spread",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Cory Booker: Coronavirus relief bill \u2018real, substantive...",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Delaware gov. issues stay-at-home order, moves primary",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "ER Doctor describes impact of medical supply shortage",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Lawrence: Trump's \u2018deadly nonsense\u2019 on re-opening the country",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Kaine: coronavirus relief 'will pass the Senate today'...",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump mocks Mitt Romney on Twitter",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "As Trump talks up Easter, governors reject his 'imaginary clock'",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senate, White House reach a deal on historic economic package",
+        "date": "2020-03-25"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Smart thermometers helping track coronavirus symptoms",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Rep. Katie Porter explains the good and the bad of the coronavirus bill",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What could Congress include in the next coronavirus relief plan?",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senate passes $2 trillion coronavirus emergency relief bill",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Whitmer on coronavirus surge: \u2018It\u2019s a dire situation\u2019",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump campaign threatens legal action of coronavirus ad",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Infectious disease expert: Coronavirus will overwhelm U.S. health care system",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Deaths in United States linked to coronavirus surpass 1,000",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Unemployment claims skyrocket amid coronavirus",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus cases overwhelming NYC hospitals",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Birx: There are still ICU beds and ventilators available in New York",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New Jersey governor pushes for federal assistance as state sees spike in virus cases",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump lauds coronavirus response amid reports of dire situations in hospitals",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pelosi: 'I feel certain' coronavirus relief bill will have bipartisan support",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "America passes Italy in total coronavirus cases",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus cases overwhelm New York City hospitals",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "What the 1918 influenza pandemic can teach us about coronavirus",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Who qualifies to receive money from the Senate coronavirus relief plan?",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump says we must \u2018protect Asian Americans\u2019 but has no answer on how to stop hate crimes",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Hospital pushed to brink before expected peak in coronavirus cases",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mass antibody testing could offer new coronavirus insights",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Here\u2019s what we know about the latest coronavirus aid bill",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "GOP governor \u2018not happy\u2019 with Trump\u2019s calls to open economy",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "The role of medical students in the pandemic",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Unemployment claims spike by a record 3.28 million",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Medical students called into service early to help in COVID fight",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Doctor recommends strict measures to curb coronavirus in U.S.",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Country struggles to catch up as it reaches grim milestone",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus won't go away in matter of weeks, says science writer",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "US now has highest number of coronavirus cases worldwide",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "USNS Comfort prepares for deployment to NYC",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump campaign threatens legal action of coronavirus ad",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Inside a NYC hospital in an \u2018apocalyptic\u2019 situation",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Senate overcomes GOP concerns, passes economic rescue package",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump campaign takes aim at ad that quotes Trump",
+        "date": "2020-03-26"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Retirees returning to help hospitals treat coronavirus",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus brings looming crisis for nations\u2019 prisons",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New Orleans crosses '1,000 [coronavirus] cases'",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Atlanta residents who live above a hospital cheer medical workers",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Boris Johnson announces he is self-isolating after testing positive for coronavirus",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Kamala Harris on Senate-passed relief bill",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Four die aboard cruise ship headed to Fort Lauderdale",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "The post-coronavirus economy: Is abnormal the new normal?",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Kansas governor on coronavirus response",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump casts doubt on need for huge number of ventilators to fight coronavirus",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Boston mayor calls for more supplies and a consistent approach",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New York City overwhelmed by record number of medical 911 calls",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fashion designers pivot to mask production in COVID-19 fight",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chris Hayes on the good news and bad news of coronavirus",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "House scrambles to back to DC to vote on $2 trillion coronavirus relief bill",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Kentucky governor on increasing number of coronavirus cases in his state",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: Governors \u2018should be appreciative\u2019 of federal help",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Number of emergency workers contracting coronavirus surges",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "House passes $2 trillion coronavirus relief bill",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "New York City hospitals on the front lines of coronavirus",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Gov. Murphy: \u2018New Jersey is as tough as nails\u2019",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump invokes Defense Production Act to manufacture ventilators",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Chicago Mayor: Federal government 'needs to step up'",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Michelle Obama joins DJ D-Nice to rally voters and 'party with a purpose' during pandemic",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Louisiana governor urges residents to isolate as cases surge",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Stacey Abrams on how coronavirus stimulus package shortchanges election funding",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Mara Gay: Trump's comments on ventilators for New York left me 'almost speechless'",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "1.5M expired N95 masks sit unused by the government",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "NY Gov. Cuomo on coronavirus response: 'We made the bed now we're lying in it.'",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump: Over next 100 days, we will make over 100K ventilators",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "As U.S. tops global tally of coronavirus cases, Trump is at odds with reality",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Pregnant ER doctor makes decision to leave ER due to coronavirus",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Dr. Redlener: Trump admin. sending \u2018mixed messages based on ignorance\u2019 for coronavirus response",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. now has more coronavirus cases than anywhere in the world. How did this happen?",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Cuomo extends school closures, says New York cases could hit peak in 21 days",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. lacks a quarterback in COVID response as Trump fails to lead",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Sen. Klobuchar: \u2018You just don't know how someone in your family is going to react to this\u2019",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Coronavirus infection rate in NYC jails 7 times the rest of...",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "U.S. overtakes China in virus cases; NYC hospitals overwhelmed",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Health officials in Mich. confirm letter on life and death...",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Boston doctor describes 'crowded' hospitals, praises medical...",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Fmr. Obama health advisor: Trump's Easter reopen is a \u2018pipe...",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Amy Klobuchar speaks as her husband recovers from coronavirus...",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "COVID-19 cases surges past 99,000 in the U.S.",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Trump signs $2T coronavirus relief bill, invokes Defense...",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Congresswomen Sherrill and Dingell stress the urgency of their...",
+        "date": "2020-03-27"
+    },
+    {
+        "source": "msnbc",
+        "headline": "Despite governors' pleas, Trump questions need for ventilators",
+        "date": "2020-03-27"
+    }
+]

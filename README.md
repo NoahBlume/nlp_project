@@ -20,4 +20,4 @@ Installation Instructions:
  Running the code (I used Python 3.7 while developing the code):
  - run "python run_all.py" from the top-level directory. 
  - This will process all of the articles, compute their tfidf vectors, and group them via k means. 
- - The whole process will take about 25 minutes. If you just wish to look at the final output of the process, see the files in nlp_project/analyzed_data
+ - The whole process will take about 25 minutes. If you just wish to look at the final output of the process without having to run the code, see the files in nlp_project/analyzed_data

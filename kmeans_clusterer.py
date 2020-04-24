@@ -41,11 +41,15 @@ def get_sentiment_ndarray(articles):
 
 
 def get_kmeans_labels(vectors, n_clusters):
-    model = KMeans()
-    visualizer = KElbowVisualizer(model, k=(2, 25))
+    model = KMeans(n_clusters=n_clusters)
 
-    visualizer.fit(vectors)  # Fit the data to the visualizer
-    visualizer.show()  # Finalize and render the figure
+    # uncomment this to get graph for k means elbow method
+    # visualizer = KElbowVisualizer(model, k=(2, 25))
+    # visualizer.fit(vectors)  # Fit the data to the visualizer
+    # visualizer.show()  # Finalize and render the figure
+
+    model = model.fit(vectors)
+    return model.labels_
 
 
 def create_labellable_articles(articles):
@@ -64,12 +68,18 @@ def run_kmeans_and_label_articles(articles):
     sentiment_vectors = get_sentiment_ndarray(articles)
     tfidf_vectors = get_tfidf_ndarray(articles)
 
-    print("running kmeans on sentiment vectors")
-    get_kmeans_labels(sentiment_vectors, 0)
-    print("running kmeans on tfidf vectors")
-    get_kmeans_labels(tfidf_vectors, 0)
+    labellable_articles = create_labellable_articles(articles)
 
+    for n in NUM_CLUSTER_OPTIONS:
+        if len(labellable_articles) < n:
+            continue
+        sentiment_kmeans_labels = get_kmeans_labels(sentiment_vectors, n)
+        add_article_labels(labellable_articles, SENTIMENT_LABEL_STRING, sentiment_kmeans_labels, n)
 
+        tfidf_kmeans_labels = get_kmeans_labels(tfidf_vectors, n)
+        add_article_labels(labellable_articles, TFIDF_LABEL_STRING, tfidf_kmeans_labels, n)
+
+    return labellable_articles
 
 
 def group_headlines_by_label(n_clusters, label_type, labelled_articles):
@@ -92,7 +102,7 @@ def group_headlines_by_label(n_clusters, label_type, labelled_articles):
     return buckets
 
 
-def create_custer_groups(labelled_articles, include_headlines=True):
+def create_cluster_groups(labelled_articles, include_headlines=True):
     cluster_groups = dict()
 
     sentiment_groups = dict()
@@ -148,7 +158,6 @@ def create_custer_groups(labelled_articles, include_headlines=True):
             all_sentiment_cluster_stats[key] = item
 
         sentiment_groups[str(n) + ' ' + SENTIMENT_LABEL_STRING + BASE_CLUSTER_STRING] = sentiment_cluster_group
-
 
         all_tfidf_cluster_stats = dict()
         tfidf_cluster_buckets = group_headlines_by_label(n, TFIDF_LABEL_STRING, labelled_articles)

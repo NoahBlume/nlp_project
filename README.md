@@ -15,6 +15,7 @@ Installation Instructions:
   - textblob
   - sklearn
   - yellowbrick
+  - numpy
   
  Running the code (I used Python 3.7 while developing the code):
  - run "python run_all.py" from the top-level directory. 

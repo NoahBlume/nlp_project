@@ -11,6 +11,7 @@ Directory Structure:
 Installation Instructions:
 - You may need to install the following libraries with pip or any other preffered methods:
   - stanza
+    - note: stanza requires that you have pytorch installed
   - textblob
   - sklearn
   - yellowbrick

@@ -79,7 +79,7 @@ if __name__ == "__main__":
     #Example commands contained below:
     
     # attempt to load in the article data if it exists
-#     fox_articles = load_articles("fox_headlines")
+#     fox_articles = load_articles("foxnews_headlines")
 #     msnbc_articles = load_articles("msnbc_headlines")
 
 #     pre_process(fox_articles)

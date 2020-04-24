@@ -6,6 +6,7 @@ This project was created to analyze headlines from MSNBC and Fox News regarding 
 Directory Structure:
 - All python code is located in the top level directory.
 - Sample headlines are contained in /headlines
+- Example of the intermidiate and final stages of our data analysis are contained in /analyzed_data
 
 Installation Instructions:
 - You may need to install the following libraries with pip or any other preffered methods:

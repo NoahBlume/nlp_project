@@ -70,7 +70,7 @@ def collect_articles(source_domain, start_date=DEFAULT_START_DATE, end_date=date
 # Returns a python list or dictionary that is loaded from a local json file
 #   source: (string) the news source for which articles will be loaded
 def load_articles(source):
-    with open('./' + source + '_headlines.json') as json_file:
+    with open('./' + source + '.json') as json_file:
         data = json.load(json_file)
         # print("locally read " + source + " data:", data)
         return data
@@ -82,9 +82,18 @@ def load_articles(source):
 def save_articles(source, data):
     # print("saving " + source + " data:", data)
     json_object = json.dumps(data, indent=4)
-    with open(source + "_headlines.json", "w") as outfile:
+    with open(source + ".json", "w") as outfile:
         outfile.write(json_object)
 
 
 if __name__ == "__main__":
     pass
+
+    #example commands below:
+#     # get the articles from newsapi.org
+#     fox_articles = collect_articles("foxnews.com")
+#     msnbc_articles = collect_articles("msnbc.com")
+#     # save the retrieved article data
+#     save_articles("foxnews_headlines", fox_articles)
+#     save_articles("msnbc_headlines", msnbc_articles)
+    

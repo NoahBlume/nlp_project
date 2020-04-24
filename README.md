@@ -9,14 +9,14 @@ Directory Structure:
 - Examples of the intermidiate and final stages of our data analysis are contained in /analyzed_data
 
 Installation Instructions:
-- You may need to install the following libraries with pip or any other preffered methods:
+- You may need to install the following libraries with pip or any other preferred methods:
   - stanza
     - note: stanza requires that you have pytorch installed
   - textblob
   - sklearn
   - yellowbrick
   
- Running the code (I used Python 3.7 when running the code):
+ Running the code (I used Python 3.7 while developing the code):
  - run "python run_all.py" from the top-level directory. 
  - This will process all of the articles, compute their tfidf vectors, and group them via k means. 
  - The whole process will take about 25 minutes. If you just wish to look at the final output of the process, see the files in /analyzed_data

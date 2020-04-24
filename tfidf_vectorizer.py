@@ -1,3 +1,4 @@
+from headline_retriever import load_articles, save_articles
 from sklearn.feature_extraction.text import TfidfVectorizer
 from datetime import date, datetime
 
@@ -46,3 +47,14 @@ def apply_cutoff(articles, cutoff_date=CUTOFF_DATE):
 if __name__ == "__main__":
     pass
 
+    # example commands:
+#     fox_articles = load_articles("foxnews_pre_processed")
+#     msnbc_articles = load_articles("msnbc_pre_processed")
+
+#     fit_vectorizer([fox_articles, msnbc_articles])
+
+#     add_tfidf_vectors(fox_articles)
+#     add_tfidf_vectors(msnbc_articles)
+
+#     save_articles("foxnews_tfidf_added", fox_articles)
+#     save_articles("msnbc_tfidf_added", msnbc_articles)

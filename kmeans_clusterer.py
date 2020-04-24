@@ -206,9 +206,18 @@ def create_custer_groups(labelled_articles, include_headlines=True):
     return cluster_groups
 
 
-def combine_articles(articles1, articles2):
-    return articles1 + articles2
-
-
 if __name__ == "__main__":
     pass
+
+    # example commands below:
+#     fox_articles = load_articles("foxnews_tfidf_added")
+#     msnbc_articles = load_articles("msnbc_tfidf_added")
+    
+#     combined_articles = fox_articles + msnbc_articles
+#     labelled_combined_articles = run_kmeans_and_label_articles(combined_articles)
+    
+#     combined_articles_by_cluster = create_custer_groups(labelled_combined_articles)
+#     combined_articles_by_cluster_no_headlines = create_custer_groups(labelled_combined_articles, include_headlines=False)
+    
+#     save_articles("combined_grouped_by_cluster", combined_articles_by_cluster)
+#     save_articles("combined_grouped_by_cluster_without_headlines", combined_articles_by_cluster_no_headlines)

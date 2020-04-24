@@ -75,23 +75,16 @@ def average_words_per_headline(preprocessed_articles):
 
 
 if __name__ == "__main__":
+    pass
+    #Example commands contained below:
+    
     # attempt to load in the article data if it exists
-    fox_articles = load_articles("filtered_fox")
-    msnbc_articles = load_articles("filtered_msnbc")
+#     fox_articles = load_articles("foxnews_headlines")
+#     msnbc_articles = load_articles("msnbc_headlines")
 
-    # print("filtered fox sentiments:")
-    # average_sentiments(fox_articles)
-    # print("filtered msnbc sentiments")
-    # average_sentiments(msnbc_articles)
+#     pre_process(fox_articles)
+#     pre_process(msnbc_articles)
 
-    print("filtered fox avg words per headline")
-    average_words_per_headline(fox_articles)
-    print("filtered msnbc avg words per headline")
-    average_words_per_headline(msnbc_articles)
-
-    # pre_process(fox_articles)
-    # pre_process(msnbc_articles)
-
-    # save the retrieved article data
-    # save_articles("foxnews_pre_processed", fox_articles)
-    # save_articles("msnbc_pre_processed", msnbc_articles)
+#     save the retrieved article data
+#     save_articles("foxnews_pre_processed", fox_articles)
+#     save_articles("msnbc_pre_processed", msnbc_articles)

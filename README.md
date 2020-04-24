@@ -5,8 +5,8 @@ This project was created to analyze headlines from MSNBC and Fox News regarding 
 
 Directory Structure:
 - All python code is located in the top level directory.
-- Sample headlines are contained in /headlines
-- Examples of the intermidiate and final stages of our data analysis are contained in /analyzed_data
+- Sample headlines are contained in nlp_project/headlines
+- Examples of the intermidiate and final stages of our data analysis are contained in nlp_project/analyzed_data
 
 Installation Instructions:
 - You may need to install the following libraries with pip or any other preferred methods:
@@ -20,4 +20,4 @@ Installation Instructions:
  Running the code (I used Python 3.7 while developing the code):
  - run "python run_all.py" from the top-level directory. 
  - This will process all of the articles, compute their tfidf vectors, and group them via k means. 
- - The whole process will take about 25 minutes. If you just wish to look at the final output of the process, see the files in /analyzed_data
+ - The whole process will take about 25 minutes. If you just wish to look at the final output of the process, see the files in nlp_project/analyzed_data

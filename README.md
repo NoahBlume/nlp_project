@@ -16,7 +16,7 @@ Installation Instructions:
   - sklearn
   - yellowbrick
   
- Running the code:
+ Running the code (I used Python 3.7 when running the code):
  - run "python run_all.py" from the top-level directory. 
  - This will process all of the articles, compute their tfidf vectors, and group them via k means. 
  - The whole process will take about 25 minutes. If you just wish to look at the final output of the process, see the files in /analyzed_data
